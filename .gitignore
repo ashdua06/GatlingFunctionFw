@@ -1,0 +1,11 @@
+target/
+.idea
+.DS_Store
+*/.DS_Store
+.classpath
+.project
+.settings/
+Results
+Results/
+/target
+/.mvn/wrapper/*.jar
