@@ -21,53 +21,6 @@
     </properties>
 
     <dependencies>
-
-      <!--  <dependency>
-            <groupId>io.gatling.highcharts</groupId>
-            <artifactId>gatling-charts-highcharts</artifactId>
-            <version>${gatling.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>io.gatling</groupId>
-            <artifactId>gatling-app</artifactId>
-            <version>${gatling.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>io.gatling</groupId>
-            <artifactId>gatling-core-java</artifactId>
-            <version>${gatling.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>io.gatling</groupId>
-            <artifactId>gatling-core</artifactId>
-            <version>${gatling.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>io.gatling</groupId>
-            <artifactId>gatling-http</artifactId>
-            <version>${gatling.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>io.gatling</groupId>
-            <artifactId>gatling-http-java</artifactId>
-            <version>${gatling.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>io.gatling</groupId>
-            <artifactId>gatling-netty-util</artifactId>
-            <version>${gatling.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>io.gatling</groupId>
-            <artifactId>gatling-recorder</artifactId>
-            <version>${gatling.version}</version>
-        </dependency>
-
-        <dependency>
-            <groupId>io.gatling</groupId>
-            <artifactId>gatling-commons</artifactId>
-            <version>${gatling.version}</version>
-        </dependency>-->
         <dependency>
             <groupId>com.airtel.qacoe</groupId>
             <artifactId>automatair-propertyFile</artifactId>
